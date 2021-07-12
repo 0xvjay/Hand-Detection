@@ -30,11 +30,11 @@
 ## Screenshots
 ----------------------------------------------------------------------------------------------------------------------------
 
-Play and Pause through Palm
+- Play and Pause through Palm
 
 ![alt text](https://github.com/st0rm2/Hand-Detection/blob/main/images/Picture1.png)
 
-Volume Up through 1 Finger up
+- Volume Up through 1 Finger up
 
 ![alt text](https://github.com/st0rm2/Hand-Detection/blob/main/images/Picture2.png)
 
